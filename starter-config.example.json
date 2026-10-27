@@ -1,0 +1,15 @@
+{
+  "project_name": "<PROJECT_NAME>",
+  "workspace": "<WORKSPACE>",
+  "repository": "<REPOSITORY>",
+  "work_branch": "<WORK_BRANCH>",
+  "default_branch": "<DEFAULT_BRANCH>",
+  "human_authority": "<HUMAN_AUTHORITY>",
+  "manifest_path": "<MANIFEST_PATH>",
+  "contract_path": "<CONTRACT_PATH>",
+  "supported_profile": "<SUPPORTED_PROFILE>",
+  "remote_policy": "<REMOTE_POLICY>",
+  "backup_location": "<BACKUP_LOCATION>",
+  "adoption_status": "NOT_ADOPTED",
+  "initialization_status": "INITIALIZATION_REQUIRED"
+}

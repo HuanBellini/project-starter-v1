@@ -1,0 +1,24 @@
+{
+  "schema": "starter-project-manifest-v1",
+  "version": 1,
+  "status": "TEMPLATE_ONLY",
+  "profile": "<SUPPORTED_PROFILE>",
+  "scope": "All project files except declared exclusions and this manifest",
+  "exclusions": [
+    ".git/**",
+    "__pycache__/**",
+    "*.py[cod]",
+    "*.lock",
+    "*.tmp",
+    "*.temp",
+    ".test-sandbox/**",
+    "evidence/PROJECT_MANIFEST.json"
+  ],
+  "entries": [
+    {
+      "path": "<RELATIVE_PATH>",
+      "size": null,
+      "sha256": "<SHA256_RAW_BYTES>"
+    }
+  ]
+}
